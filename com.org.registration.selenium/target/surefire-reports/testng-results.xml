@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="43863" started-at="2018-11-05T12:33:51Z" finished-at="2018-11-05T12:34:35Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="43863" started-at="2018-11-05T12:33:51Z" finished-at="2018-11-05T12:34:35Z">
+      <class name="registrationPackage.RegistrationTest">
+        <test-method status="PASS" signature="Driver()[pri:0, instance:registrationPackage.RegistrationTest@19b4d0f]" name="Driver" is-config="true" duration-ms="19180" started-at="2018-11-05T18:03:51Z" finished-at="2018-11-05T18:04:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Driver -->
+        <test-method status="PASS" signature="CookieManagement()[pri:0, instance:registrationPackage.RegistrationTest@19b4d0f]" name="CookieManagement" duration-ms="40" started-at="2018-11-05T18:04:10Z" finished-at="2018-11-05T18:04:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CookieManagement -->
+        <test-method status="PASS" signature="TextFields()[pri:0, instance:registrationPackage.RegistrationTest@19b4d0f]" name="TextFields" duration-ms="2133" started-at="2018-11-05T18:04:10Z" finished-at="2018-11-05T18:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TextFields -->
+        <test-method status="PASS" signature="ScrollintoView()[pri:0, instance:registrationPackage.RegistrationTest@19b4d0f]" name="ScrollintoView" duration-ms="32" started-at="2018-11-05T18:04:12Z" finished-at="2018-11-05T18:04:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollintoView -->
+        <test-method status="PASS" signature="dropdown()[pri:0, instance:registrationPackage.RegistrationTest@19b4d0f]" name="dropdown" duration-ms="1686" started-at="2018-11-05T18:04:12Z" finished-at="2018-11-05T18:04:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown -->
+        <test-method status="PASS" signature="enalabled()[pri:0, instance:registrationPackage.RegistrationTest@19b4d0f]" name="enalabled" duration-ms="93" started-at="2018-11-05T18:04:14Z" finished-at="2018-11-05T18:04:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enalabled -->
+        <test-method status="PASS" signature="dropdown2()[pri:0, instance:registrationPackage.RegistrationTest@19b4d0f]" name="dropdown2" duration-ms="484" started-at="2018-11-05T18:04:14Z" finished-at="2018-11-05T18:04:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdown2 -->
+        <test-method status="PASS" signature="submitButton()[pri:0, instance:registrationPackage.RegistrationTest@19b4d0f]" name="submitButton" duration-ms="790" started-at="2018-11-05T18:04:14Z" finished-at="2018-11-05T18:04:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitButton -->
+        <test-method status="PASS" signature="button2()[pri:0, instance:registrationPackage.RegistrationTest@19b4d0f]" name="button2" duration-ms="1343" started-at="2018-11-05T18:04:15Z" finished-at="2018-11-05T18:04:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- button2 -->
+        <test-method status="PASS" signature="multipleWindow()[pri:0, instance:registrationPackage.RegistrationTest@19b4d0f]" name="multipleWindow" duration-ms="18061" started-at="2018-11-05T18:04:16Z" finished-at="2018-11-05T18:04:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleWindow -->
+      </class> <!-- registrationPackage.RegistrationTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
